@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="3" failures="0" errors="0" time="25.438">
+  <testsuite name="Pre authentication tasks" errors="0" failures="0" skipped="0" timestamp="2023-07-31T15:24:23" time="15.039" tests="3">
+    <testcase classname="Pre authentication tasks Sanity Test - Login page works" name="Pre authentication tasks Sanity Test - Login page works" time="0.584">
+    </testcase>
+    <testcase classname="Pre authentication tasks Sanity Test - New user registration works" name="Pre authentication tasks Sanity Test - New user registration works" time="0.473">
+    </testcase>
+    <testcase classname="Pre authentication tasks Sanity Test - Database reset for each test" name="Pre authentication tasks Sanity Test - Database reset for each test" time="0.358">
+    </testcase>
+  </testsuite>
+</testsuites>
